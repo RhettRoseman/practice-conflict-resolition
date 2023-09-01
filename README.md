@@ -1,1 +1,2 @@
 # practice-conflict-resolition
+information
